@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm David! 👋
 
-<!--
-**daev1005/daev1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Engineer | Code Explorer | Bug Wrangler 🐛
 
-Here are some ideas to get you started:
+I dabble in **everything**—from building games and analyzing data, to AI experiments and web apps. I like to break stuff, learn fast, and sometimes even finish what I start.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+**Languages:** HTML | CSS | Java | JavaScript | Python | R  
+**Interests:** 🤖 AI | 🎮 Game Development | 🕸️ Web Development | 🛠️ Anything that looks fun  
+
+---
+
+## 🌟 Featured Projects
+
+- [**Redis Clone**](https://github.com/daev1005/redis-clone) – Built a lightweight in-memory database
+- [**Aircraft Incident Analyzer**](https://github.com/daev1005/aircraft_incident_database) – Explored patterns in global aviation incident data  
+- [**AI Resume Analyzer**](https://github.com/daev1005/AI-Resume-Analyzer) – Python-powered tool to score resumes automatically  
+- [**NYTimes Connections Game**](https://github.com/daev1005/Connections) – Web-based puzzle game inspired by NYTimes  
+- [**Weather App**](https://github.com/daev1005/Weather) – Real-time weather dashboard built with JavaScript and API data  
+
+---
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/david-li-3ab6a3332/) | [Portfolio](wip) | [Email](lidavid206@gmail.com)  
+
