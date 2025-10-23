@@ -25,5 +25,5 @@ I dabble in **everything**—from building games and analyzing data, to AI exper
 
 ## 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/david-li-3ab6a3332/) | [Portfolio](wip) | [Email](lidavid206@gmail.com)  
+[LinkedIn](https://www.linkedin.com/in/david-li-3ab6a3332/) | [Portfolio](https://daev1005.github.io/portfolio/) | [Email](lidavid206@gmail.com)  
 
