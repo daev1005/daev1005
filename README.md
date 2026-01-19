@@ -2,7 +2,7 @@
 
 Aspiring Software Engineer | Code Explorer | Bug Wrangler 🐛
 
-I dabble in **everything**—from building games and analyzing data, to AI experiments and web apps. I like to break stuff, learn fast, and sometimes even finish what I start.  
+I build across games, data, AI, and web apps, with a strong focus on experimentation, learning fast, and turning ideas into working projects.
 
 ---
 
