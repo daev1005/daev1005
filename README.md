@@ -8,7 +8,15 @@ I build across games, data, AI, and web apps, with a strong focus on experimenta
 
 ## 🔧 Tech Stack
 
-**Languages:** HTML | CSS | Java | JavaScript | Python | R  
+**Languages**  
+JavaScript · Python · Java · HTML · CSS · R
+
+**Web & Backend**  
+Node.js · Express · REST APIs · MongoDB · SQL · JWT Authentication
+
+**Tools & Platforms**  
+Git · GitHub · VS Code · Postman · Docker (learning) · AWS (learning)
+
 **Interests:** 🤖 AI | 🎮 Game Development | 🕸️ Web Development | 🛠️ Anything that looks fun  
 
 ---
