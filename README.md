@@ -22,7 +22,7 @@ Git · GitHub · VS Code · Postman · Docker (learning) · AWS (learning)
 ---
 
 ## 🌟 Featured Projects
-
+- [**Healthy Huskies**](https://github.com/daev1005/healthy-huskies) - Full-stack calorie-tracking web app using real Northeastern dining hall data
 - [**Redis Clone**](https://github.com/daev1005/redis-clone) – Built a lightweight in-memory database
 - [**Aircraft Incident Analyzer**](https://github.com/daev1005/aircraft_incident_database) – Explored patterns in global aviation incident data  
 - [**AI Resume Analyzer**](https://github.com/daev1005/AI-Resume-Analyzer) – Python-powered tool to score resumes automatically  
