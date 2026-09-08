@@ -1,8 +1,6 @@
 # Hey, I'm David! 👋
 
-Aspiring Software Engineer | Code Explorer | Bug Wrangler 🐛
-
-I build across games, data, AI, and web apps, with a strong focus on experimentation, learning fast, and turning ideas into working projects.
+Aspiring Software Engineer
 
 ---
 
