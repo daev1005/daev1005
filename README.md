@@ -13,7 +13,7 @@ JavaScript · Python · Java · HTML · CSS · R
 Node.js · Express · REST APIs · MongoDB · SQL · JWT Authentication
 
 **Tools & Platforms**  
-Git · GitHub · VS Code · Postman · Docker (learning) · AWS (learning)
+Git · GitHub · VS Code · Docker · AWS 
 
 **Interests:** 🤖 AI | 🎮 Game Development | 🕸️ Web Development | 🛠️ Anything that looks fun  
 
